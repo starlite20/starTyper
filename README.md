@@ -1,6 +1,16 @@
 # starTyper
-A Text Based Typing Game 
+A Text-Based Typing Game Built with C++
 
-In *typer (Star Typer), the user should type a paragraph, as it  is  from  the  screen  and  press enter.  The  program  will calculate the speed of the user and the number of errors by the user. The program will also generate a score and keep a track of the previous scores of each user.
+**starTyper** is a simple yet engaging typing game developed entirely in C++. The game challenges users to type a given paragraph as accurately and quickly as possible. It evaluates the user's typing speed, tracks errors, and generates a score based on performance. Additionally, it maintains a record of previous scores for each user.
 
-A special additional option in this program is that, the user can create levels as they wish. You can create your profile, edit it, play a level, log out, and oh, you can even cheat in this game!;)
+## Features
+- **Typing Challenge**: Type the displayed paragraph and get instant feedback on speed and accuracy.
+- **Custom Levels**: Create and play custom levels tailored to your preferences.
+- **User Profiles**: Create, edit, and manage your profile.
+- **Score Tracking**: Keep a history of your scores to monitor progress.
+- **Cheat Mode**: A fun twist—explore the game with a built-in cheat option!
+
+Whether you're looking to improve your typing skills or just have fun, starTyper offers a unique and customizable experience.
+
+---
+*Built entirely in C++ for a fast and efficient gaming experience.*
